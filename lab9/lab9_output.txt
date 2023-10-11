@@ -1,0 +1,105 @@
+Script started on Tue 08 Nov 2022 04:51:46 PM EST
+cis-lclient06:~/lab9>cc -I. l[Kmmutils.c lab9.c
+cis-lclient06:~/lab9>./a.out
+Lab Number 9 
+Mastermind 
+Play the game of Mastermind! 
+This program was written by Lara Fernandes and was compiled on Nov  8 2022 at 16:51:57 
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: oplg
+Your guess is |Orange| |Purple| |Black | |Green |.
+
+
+The mastermind responds: [White] [White] [Empty] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: ybog
+Your guess is |Yellow| |Blue  | |Orange| |Green |.
+
+
+The mastermind responds: [White] [White] [Empty] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: ylgb
+Your guess is |Yellow| |Black | |Green | |Blue  |.
+
+
+The mastermind responds: [Red  ] [White] [White] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: yplg
+Your guess is |Yellow| |Purple| |Black | |Green |.
+
+
+The mastermind responds: [White] [White] [White] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: lgyp
+Your guess is |Black | |Green | |Yellow| |Purple|.
+
+
+The mastermind responds: [Red  ] [White] [White] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: lgob
+Your guess is |Black | |Green | |Orange| |Blue  |.
+
+
+The mastermind responds: [Red  ] [White] [Empty] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: blog
+Your guess is |Blue  | |Black | |Orange| |Green |.
+
+
+The mastermind responds: [White] [White] [Empty] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: blpo
+Your guess is |Blue  | |Black | |Purple| |Orange|.
+
+
+The mastermind responds: [White] [Empty] [Empty] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: bglo
+Your guess is |Blue  | |Green | |Black | |Orange|.
+
+
+The mastermind responds: [White] [White] [Empty] [Empty].
+
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: blog
+Your guess is |Blue  | |Black | |Orange| |Green |.
+
+
+The mastermind responds: [White] [White] [Empty] [Empty].
+
+Sorry, you've had too many guesses.  You lose.
+
+cis-lclient06:~/lab9>cc I[K-I. mmutiks[K[Kls.c lab9.c
+cis-lclient06:~/lab9>./a.out
+Lab Number 9 
+Mastermind 
+Play the game of Mastermind! 
+This program was written by Lara Fernandes and was compiled on Nov  8 2022 at 16:53:05 
+Given the following colors:
+    (b)lue, (y)ellow, (g)reen, (p)urple, (o)range, b(l)ack
+enter your 4 color guesses using the letter in parentheses or 0 to quit: 0
+
+
+Thanks for playing Mastermind!
+cis-lclient06:~/lab9>exit
+exit
+
+Script done on Tue 08 Nov 2022 04:53:12 PM EST
