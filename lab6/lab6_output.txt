@@ -1,0 +1,66 @@
+Script started on Wed 19 Oct 2022 11:47:16 AM EDT
+cis-lclient01:~/lab6>cc lab6.c
+cis-lclient01:~/lab6>./a.out
+Lab Number 6 
+Doomsday Algorithm 
+Calculates the day of the week for any date using the doomsday algorithm. 
+This program was written by Lara Fernandes and was compiled on Oct 19 2022 at 11:47:22 
+Please enter a value for the month.
+10
+Please enter a value for the day.
+25
+Please enter a value for the year.
+200 22
+The calculated day is Tuesday.
+Please enter a value for the month.
+10
+Please enter a value for the day.
+25
+Please enter a value for the year.
+2003
+The calculated day is Saturday.
+Please enter a value for the month.
+1
+Please enter a value for the day.
+1
+Please enter a value for the year.
+20  1897
+The calculated day is Friday.
+Please enter a value for the month.
+5
+Please enter a value for the day.
+6
+Please enter a value for the year.
+1923
+The calculated day is Sunday.
+Please enter a value for the month.
+12
+Please enter a value for the day.
+12
+Please enter a value for the year.
+22 12 12
+The calculated day is Monday.
+Please enter a value for the month.
+8
+Please enter a value for the day.
+1855   8
+Please enter a value for the year.
+1855
+The calculated day is Saturday.
+Please enter a value for the month.
+6
+Please enter a value for the day.
+3
+Please enter a value for the year.
+2006
+The calculated day is Saturday.
+Please enter a value for the month.
+-1
+Please enter a value for the day.
+-45
+Please enter a value for the year.
+-90
+cis-lclient01:~/lab6>exit
+exit
+
+Script done on Wed 19 Oct 2022 11:51:24 AM EDT
