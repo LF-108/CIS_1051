@@ -1,0 +1,93 @@
+Script started on Wed 14 Sep 2022 06:45:37 PM EDT
+cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+5
+Part 1: 3125
+Part 2: 0.006738
+Part 3: 32.463124
+Part 4: 5.697642
+The factorial estimation is 119.970030.cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+4
+Part 1: 256
+Part 2: 0.018316
+Part 3: 26.179939
+Part 4: 5.116634
+The factorial estimation is 23.990890.cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+6
+Part 1: 46656
+Part 2: 0.002479
+Part 3: 38.746309
+Part 4: 6.224653
+The factorial estimation is 719.872829.cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+12
+Part 1: -2147483648
+Part 2: 0.000006
+Part 3: 76.445421
+Part 4: 8.743307
+The factorial estimation is -115364.402618.cis-lclient04:~/lab3>cc lab_new[K[K[K[K3_new.c -lm[K[K[K-l[K[K -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+15
+Part 1: -2147483648
+Part 2: 0.000000
+Part 3: 95.294977
+Part 4: 9.761915
+The factorial estimation is -6412.799209.cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+17
+Part 1: -2147483648
+Part 2: 0.000000
+Part 3: 107.861348
+Part 4: 10.385632
+The factorial estimation is -923.329251.cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+25
+Part 1: -2147483648
+Part 2: 0.000000
+Part 3: 158.126830
+Part 4: 12.574849
+The factorial estimation is -0.375034.cis-lclient04:~/lab3>cc lab3_new.c -lm
+cis-lclient04:~/lab3>./a.out
+ESTIMATE A FACTORIAL VALUE WITHOUT ACTUALLY CALCULATING IT
+This program was written by Lara Fernandes
+It will estimate the value of "n!" using Gosper's algorithm.
+Please enter an integer value to calculate a factorial.
+2000
+Part 1: -2147483648
+Part 2: 0.000000
+Part 3: 12567.417798
+Part 4: 112.104495
+The factorial estimation is -0.000000.cis-lclient04:~/lab3>exit
+exit
+
+Script done on Wed 14 Sep 2022 06:50:52 PM EDT
