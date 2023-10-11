@@ -1,0 +1,65 @@
+Script started on Wed 31 Aug 2022 07:14:25 PM EDT
+cis-lclient01:~/lab2>cc lab2.c -lm
+cis-lclient01:~/lab2>./a.out
+Please enter the greater of the two integers: 
+8
+Please enter the lesser of the two values integers: 
+5
+The following right triangle can be generated from these numbers: 
+ Side 1 is: 39 
+ Side 2 is: 80 
+ Hypotenuse is: 89 
+ cis-lclient01:~/lab2>cc lab2.c -lm
+cis-lclient01:~/lab2>./a.out
+Please enter the greater of the two integers: 
+7
+Please enter the lesser of the two values integers: 
+6
+The following right triangle can be generated from these numbers: 
+ Side 1 is: 13 
+ Side 2 is: 84 
+ Hypotenuse is: 85 
+ cis-lclient01:~/lab2>cc lab2.c -lm
+cis-lclient01:~/lab2>./a.out
+Please enter the greater of the two integers: 
+9
+Please enter the lesser of the two values integers: 
+3
+The following right triangle can be generated from these numbers: 
+ Side 1 is: 72 
+ Side 2 is: 54 
+ Hypotenuse is: 90 
+ cis-lclient01:~/lab2>c c lab2.c -lm
+cis-lclient01:~/lab2>./a.out
+Please enter the greater of the two integers: 
+6
+Please enter the lesser of the two values integers: 
+4
+The following right triangle can be generated from these numbers: 
+ Side 1 is: 20 
+ Side 2 is: 48 
+ Hypotenuse is: 52 
+ cis-lclient01:~/lab2>cc lab2.c -lm
+cis-lclient01:~/lab2>./aou[K[K[Ka.out
+Please enter the greater of the two integers: 
+5
+Please enter the lesser of the two values integers: 
+3
+The following right triangle can be generated from these numbers: 
+ Side 1 is: 16 
+ Side 2 is: 30 
+ Hypotenuse is: 34 
+ cis-lclient01:~/lab2>cc lab2.c -lm
+cis-lclient01:~/lab2>./a.out
+Please enter the greater of the two integers: 
+5
+Please enter the lesser of the two values integers: 
+2
+The following right triangle can be generated from these numbers: 
+ Side 1 is: 21 
+ Side 2 is: 20 
+ Hypotenuse is: 29 
+ cis-lclient01:~/lab2>exit
+exit
+
+Script done on Wed 31 Aug 2022 07:20:08 PM EDT
