@@ -1,0 +1,86 @@
+Script started on Sat 17 Sep 2022 10:06:11 PM EDT
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>n[Ka[K./a.out
+Please enter the dollar amount: 
+116.23
+5  Twenty-dollar bills
+1  Ten-dollar bill
+1  Five-dollar bill
+1  One-dollar bill
+2  Dimes
+3  Pennies
+Total: $116.23
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+5.99
+1  Five-dollar bill
+3  Quarters
+2  Dimes
+4  Pennies
+Total: $5.99
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+0.32
+1  Quarter
+1  Nickel
+2  Pennies
+Total: $0.32
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+17.88
+1  Ten-dollar bill
+1  Five-dollar bill
+2  One-dollar bills
+3  Quarters
+1  Dime
+3  Pennies
+Total: $17.88
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+278.92
+13  Twenty-dollar bills
+1  Ten-dollar bill
+1  Five-dollar bill
+3  One-dollar bills
+3  Quarters
+1  Dime
+1  Nickel
+2  Pennies
+Total: $278.92
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+52.00
+2  Twenty-dollar bills
+1  Ten-dollar bill
+2  One-dollar bills
+Total: $52.00
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+19.22
+1  Ten-dollar bill
+1  Five-dollar bill
+4  One-dollar bills
+2  Dimes
+2  Pennies
+Total: $19.22
+cis-lclient01:~/lab4>cc lab4.c
+cis-lclient01:~/lab4>./a.out
+Please enter the dollar amount: 
+71.49
+3  Twenty-dollar bills
+1  Ten-dollar bill
+1  One-dollar bill
+1  Quarter
+2  Dimes
+3  Pennies
+Total: $71.48
+cis-lclient01:~/lab4>exit
+exit
+
+Script done on Sat 17 Sep 2022 10:08:55 PM EDT
