@@ -1,0 +1,10 @@
+Script started on Sat 05 Nov 2022 12:13:49 AM EDT
+cis-lclient12:~/lab8>cc lab8)[K_driver_promptForUPCBarcode.c
+cis-lclient12:~/lab8>./a.out
+Enter a 12-digit UPC barcode or 'Q' to quit: 
+123456789021
+123456789021
+cis-lclient12:~/lab8>exit
+exit
+
+Script done on Sat 05 Nov 2022 12:14:18 AM EDT

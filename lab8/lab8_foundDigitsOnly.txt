@@ -1,0 +1,9 @@
+Script started on Fri 04 Nov 2022 11:34:18 PM EDT
+cis-lclient12:~/lab8>cc lab8_driver_foundDigitsOnly.c
+cis-lclient12:~/lab8>nano[K[K[K[K./a.out
+The value of foundDigitsOnly for arr1 is 0.
+The value of foundDigitsOnly for arr2 is 1.
+cis-lclient12:~/lab8>exit
+exit
+
+Script done on Fri 04 Nov 2022 11:34:39 PM EDT

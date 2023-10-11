@@ -1,0 +1,8 @@
+Script started on Fri 04 Nov 2022 11:34:51 PM EDT
+cis-lclient12:~/lab8>cc lab8_driver_convertToDigit.c
+cis-lclient12:~/lab8>./a.out
+Converting character '8' to the integer 8.
+cis-lclient12:~/lab8>exit
+exit
+
+Script done on Fri 04 Nov 2022 11:35:09 PM EDT
