@@ -1,0 +1,82 @@
+Script started on Sun 02 Oct 2022 07:40:17 PM EDT
+cis-lclient11:~/lab5>cc lab[K[K[Klab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:40:27 
+Please enter an integer for the numerator.
+10
+Please enter an integer for the denominator.
+2
+The quotient is 5 and the remainder is 0.
+cis-lclient11:~/lab5>cc lab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:40:40 
+Please enter an integer for the numerator.
+70
+Please enter an integer for the denominator.
+13
+The quotient is 5 and the remainder is 5.
+cis-lclient11:~/lab5>cc lab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:40:57 
+Please enter an integer for the numerator.
+120
+Please enter an integer for the denominator.
+87
+The quotient is 1 and the remainder is 33.
+cis-lclient11:~/lab5>cc lab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:41:13 
+Please enter an integer for the numerator.
+83
+Please enter an integer for the denominator.
+4
+The quotient is 20 and the remainder is 3.
+cis-lclient11:~/lab5>[Kcis-lclient11:~/lab5>./a.out[22Gcc lab5_quotient.c[22G./a.out[K[22Gcc lab5_quotient.c[22G./a.out[K[22Gcc lab5_quotient.c[22G./a.out[K[22Gcc lab5_quotient.c[22Gexit[K./a.out[22Gcc lab5_armstrong.c -lm[22G./a.out[Kc[K[K[K[K[K[K[K[Kcc lab5_[K[K[K[K[K[K[Kcc lab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:42:43 
+Please enter an integer for the numerator.
+36
+Please enter an integer for the denominator.
+5
+The quotient is 7 and the remainder is 1.
+cis-lclient11:~/lab5>cc lab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:42:55 
+Please enter an integer for the numerator.
+78
+Please enter an integer for the denominator.
+12
+The quotient is 6 and the remainder is 6.
+cis-lclient11:~/lab5>cc lab5_quotient.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Quotient) 
+Calculates the quotient and remainder given two integers for the numerator and denominator. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:43:24 
+Please enter an integer for the numerator.
+85
+Please enter an integer for the denominator.
+5
+The quotient is 17 and the remainder is 0.
+cis-lclient11:~/lab5>exit
+exit
+
+Script done on Sun 02 Oct 2022 07:43:34 PM EDT

@@ -1,0 +1,68 @@
+Script started on Sun 02 Oct 2022 07:48:46 PM EDT
+cis-lclient11:~/lab5>n[Kcc lab5_parsec.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:48:54 
+Please enter a the number of parsecs you want converted.
+100
+100.000000 parsecs is 326.000000 lightyears.
+cis-lclient11:~/lab5>cc lab5_parsec.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:49:13 
+Please enter a the number of parsecs you want converted.
+50
+50.000000 parsecs is 163.000000 lightyears.
+cis-lclient11:~/lab5>cc lab5_parsec.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:49:25 
+Please enter a the number of parsecs you want converted.
+7
+7.000000 parsecs is 22.820000 lightyears.
+cis-lclient11:~/lab5>cc lab5_parsec.c
+cis-lclient11:~/lab5>./a[Ka.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:49:35 
+Please enter a the number of parsecs you want converted.
+9 200
+200.000000 parsecs is 652.000000 lightyears.
+cis-lclient11:~/lab5>cc lab5_parsec.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:49:55 
+Please enter a the number of parsecs you want converted.
+60
+60.000000 parsecs is 195.600000 lightyears.
+cis-lclient11:~/lab5>cc lab5_parsec.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:50:04 
+Please enter a the number of parsecs you want converted.
+80
+80.000000 parsecs is 260.800000 lightyears.
+cis-lclient11:~/lab5>c[Kcis-lclient11:~/lab5>cc lab5_parsec.c
+cis-lclient11:~/lab5>./a.out
+Lab Number 5 
+Drivers(Parsec) 
+Converts a given number of parsecs to light years. 
+This program was written by Lara Fernandes and was compiled on Oct  2 2022 at 19:50:26 
+Please enter a the number of parsecs you want converted.
+100 
+10.000000 parsecs is 32.600000 lightyears.
+cis-lclient11:~/lab5>exit
+exit
+
+Script done on Sun 02 Oct 2022 07:50:40 PM EDT
